@@ -1,5 +1,5 @@
 import React from 'react'
-import Link from '../Link'
+import Link from './Link'
 import gql from 'graphql-tag'
 import { Query } from 'react-apollo'
 
